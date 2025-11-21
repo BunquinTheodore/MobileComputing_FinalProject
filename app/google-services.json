@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828642328568",
+    "project_id": "hackhunt-bca67",
+    "storage_bucket": "hackhunt-bca67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828642328568:android:f1aec7e845b3004de5a00d",
+        "android_client_info": {
+          "package_name": "Hack.Hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnc3snO28zVZvIbtxU-yCJSokLJXHrVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
