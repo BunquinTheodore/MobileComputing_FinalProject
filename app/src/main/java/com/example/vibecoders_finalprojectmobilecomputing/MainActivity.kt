@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
         }
         
         // Google sign in button
-        findViewById<android.widget.ImageButton>(R.id.btnGoogle).setOnClickListener {
+        findViewById<com.google.android.material.button.MaterialButton>(R.id.btnGoogleSignIn).setOnClickListener {
             signInWithGoogle()
         }
         
