@@ -12,7 +12,12 @@
           "package_name": "Hack.Hunt"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "828642328568-2u3a12ecvf0cgps8mi5ug9ulcne03s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBnc3snO28zVZvIbtxU-yCJSokLJXHrVqU"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828642328568-2u3a12ecvf0cgps8mi5ug9ulcne03s29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
