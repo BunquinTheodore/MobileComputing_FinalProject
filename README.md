@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
 *A modern Android application for discovering and exploring hackathon events*
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Authors](#authors)
@@ -15,11 +10,11 @@
 
 ---
 
-## 📱 Overview
+## Overview
 
 **HackHunt** is a native Android application designed to help developers, designers, and tech enthusiasts discover upcoming hackathon events. Built with modern Android development practices, the app provides a seamless experience for browsing, filtering, and managing hackathon registrations.
 
-### 🎯 Project Information
+### Project Information
 
 - **Course:** Mobile Computing (CS 3101)
 - **Institution:** [Your University Name]
@@ -28,40 +23,40 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - **Email/Password Authentication** - Secure user registration and login
 - **Google Sign-In Integration** - One-tap authentication with Google accounts
 - **Remember Me Functionality** - Persistent login sessions for convenience
 - **Password Visibility Toggle** - Enhanced user experience for password input
 
-### 🎪 Hackathon Discovery
+### Hackathon Discovery
 - **Browse Hackathons** - View a curated list of upcoming hackathon events
 - **Advanced Filtering** - Filter events by:
-  - 📅 Month
-  - 📍 Location
+  - Month
+  - Location
 - **Detailed Event Information** - Access comprehensive details including:
   - Event title and description
   - Date and time
   - Location
   - Registration details
 
-### 🎨 User Interface
+### User Interface
 - **Modern Material Design 3** - Clean and intuitive interface
 - **Coral Theme** - Eye-catching color scheme with coral accents (#FF7F66)
 - **Dark Gradient Background** - Aesthetic dark theme for reduced eye strain
 - **Smooth Animations** - Fluid transitions and interactions
 - **Responsive Layouts** - Optimized for various screen sizes
 
-### 🔥 Backend Integration
+### Backend Integration
 - **Firebase Authentication** - Secure user authentication backend
 - **Cloud Firestore** - Real-time database for hackathon data
 - **Firebase Analytics** - Track user engagement and app performance
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -107,7 +102,7 @@
 
 ---
 
-## 📖 Usage
+## Usage
 
 ### User Registration
 1. Launch the app
@@ -138,7 +133,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Tech Stack
 
@@ -206,7 +201,7 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 
@@ -228,7 +223,7 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 - **Password Encryption** - Firebase handles secure password storage
 - **HTTPS Communication** - All Firebase requests use encrypted connections
@@ -238,7 +233,7 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Manual Testing Checklist
 
@@ -260,46 +255,11 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
 
 ---
 
-## 📱 Screenshots
-
-*Add screenshots of your app here*
-
-| Login Screen | Registration | Hackathon List |
-|-------------|--------------|----------------|
-| ![Login](path/to/login.png) | ![Register](path/to/register.png) | ![List](path/to/list.png) |
-
----
-
-## 🐛 Known Issues
-
-### Android API 36 Launcher Issue
-- **Issue:** App cannot be launched using standard `adb shell am start` commands on Android API 36 (preview)
-- **Workaround:** Use `adb shell am start -S -W` flags to force launch
-- **Status:** This is a known bug in Android 16 preview SDK
-
----
-
-## 🚧 Future Enhancements
-
-- [ ] **Hackathon Details Page** - Dedicated page for each hackathon with full information
-- [ ] **Registration Management** - Allow users to register for hackathons within the app
-- [ ] **Calendar Integration** - Add hackathons to device calendar
-- [ ] **Push Notifications** - Remind users of upcoming hackathons
-- [ ] **Social Sharing** - Share hackathons on social media
-- [ ] **Dark Mode Toggle** - User-selectable light/dark theme
-- [ ] **Offline Support** - Cache hackathon data for offline viewing
-- [ ] **Search Functionality** - Search hackathons by keywords
-- [ ] **Favorites/Bookmarks** - Save favorite hackathons
-- [ ] **Team Formation** - Connect with other participants
-
----
-
-## 👥 Authors
+## Authors
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Theodore"/>
       <br />
       <sub><b>Theodore Von Joshua M. Bunquin</b></sub>
       <br />
@@ -308,7 +268,6 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
       <a href="https://github.com/BunquinTheodore">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Paul"/>
       <br />
       <sub><b>Paul C. Alcaraz</b></sub>
       <br />
@@ -317,7 +276,6 @@ implementation("androidx.recyclerview:recyclerview:1.3.2")
       <a href="https://github.com/PaulAlcaraz">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="John"/>
       <br />
       <sub><b>John Richnell C. Catibog</b></sub>
       <br />
