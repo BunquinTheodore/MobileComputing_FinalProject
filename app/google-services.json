@@ -7,17 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:828642328568:android:f1aec7e845b3004de5a00d",
+        "mobilesdk_app_id": "1:828642328568:android:db9bf81f4fad924ee5a00d",
         "android_client_info": {
-          "package_name": "Hack.Hunt"
+          "package_name": "com.example.vibecoders_finalprojectmobilecomputing"
         }
       },
       "oauth_client": [
         {
-          "client_id": "828642328568-90einqobbpo8b7mdk445s85polm4s5og.apps.googleusercontent.com",
+          "client_id": "828642328568-ANDROID_CLIENT_ID.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "Hack.Hunt",
+            "package_name": "com.example.vibecoders_finalprojectmobilecomputing",
             "certificate_hash": "64e24b1947bbceb0f7c0af5d9892e2e2c977caa1"
           }
         },

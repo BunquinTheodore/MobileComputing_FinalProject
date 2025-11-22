@@ -12,7 +12,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "Hack.Hunt"
+        applicationId = "com.example.vibecoders_finalprojectmobilecomputing"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
