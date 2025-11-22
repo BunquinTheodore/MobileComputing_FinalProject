@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "828642328568-90einqobbpo8b7mdk445s85polm4s5og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Hack.Hunt",
+            "certificate_hash": "64e24b1947bbceb0f7c0af5d9892e2e2c977caa1"
+          }
+        },
+        {
           "client_id": "828642328568-2u3a12ecvf0cgps8mi5ug9ulcne03s29.apps.googleusercontent.com",
           "client_type": 3
         }

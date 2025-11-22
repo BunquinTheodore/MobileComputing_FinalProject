@@ -32,6 +32,11 @@ class RegisterActivity : AppCompatActivity() {
         findViewById<com.google.android.material.button.MaterialButton>(R.id.btnRegister).setOnClickListener {
             registerUser()
         }
+
+        // Login link
+        findViewById<android.widget.TextView>(R.id.tvLogin).setOnClickListener {
+            finish() // Go back to login
+        }
     }
     
     private fun registerUser() {

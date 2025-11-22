@@ -25,8 +25,8 @@ class HackathonAdapter(private val hackathons: List<Hackathon>) :
     override fun onBindViewHolder(holder: HackathonViewHolder, position: Int) {
         val hackathon = hackathons[position]
         holder.titleTextView.text = hackathon.title
-        holder.dateTextView.text = "Date: ${hackathon.date}"
-        holder.locationTextView.text = "Location: ${hackathon.location}"
+        holder.dateTextView.text = hackathon.date
+        holder.locationTextView.text = hackathon.location
         holder.descriptionTextView.text = hackathon.description
     }
 
