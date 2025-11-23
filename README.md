@@ -22,9 +22,8 @@
 ### Project Information
 
 - **Course:** Mobile Computing (CS 3101)
-- **Institution:** [Your University Name]
+- **Institution:** Batangas State University - The National Engineering University - Alangilan Campus
 - **Academic Year:** 2024-2025
-- **Development Period:** [Start Date] - [End Date]
 
 ---
 
