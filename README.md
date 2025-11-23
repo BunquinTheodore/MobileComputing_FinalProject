@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/645c87f4-afba-4106-a5fe-8edf808250bc" />
+
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c950331d-9b14-46fa-bda9-29972372d8b8" />
+
+
+
 *A modern Android application for discovering and exploring hackathon events*
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Authors](#authors)
