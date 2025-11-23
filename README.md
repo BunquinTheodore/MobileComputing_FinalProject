@@ -318,7 +318,7 @@ For educational purposes only. Not licensed for commercial use.
 
 ## 🙏 Acknowledgments
 
-- **Instructor:** [Your Instructor's Name] - CS 3101 Mobile Computing
+- **Instructor:** Joshua Fronda - CS 3101 Mobile Computing
 - **Firebase** - For providing excellent backend services
 - **Material Design** - For comprehensive design guidelines
 - **Stack Overflow Community** - For troubleshooting assistance
@@ -329,9 +329,6 @@ For educational purposes only. Not licensed for commercial use.
 ## 📞 Contact & Support
 
 For questions, suggestions, or issues related to this project:
-
-- **Email:** [your-email@university.edu]
-- **Course:** CS 3101 - Mobile Computing
 - **Repository Issues:** [GitHub Issues](https://github.com/BunquinTheodore/MobileComputing_FinalProject/issues)
 
 ---
